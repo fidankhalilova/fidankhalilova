@@ -1,92 +1,137 @@
-# 👋 Hi, I'm Fidan Khalilova
+# Hi 👋 I'm Fidan Khalilova
 
-🎓 Student | 💻 Web Developer | 🤖 AI Enthusiast
-📍 Based in Azerbaijan
+### Frontend Developer • Information Technologies Student @ ADA University
 
----
+I'm a frontend developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean interfaces, solving real-world problems through code, and continuously learning new technologies.
 
-## 🚀 About Me
-
-I’m passionate about building impactful digital products that combine **technology, creativity, and problem-solving**.
-
-Currently, I’m working on:
-
-* 🤖 An AI-powered history learning game for students
-* 🌐 Full-stack web development projects
-* 📊 Data analysis & probability-based simulations
-
-I enjoy turning ideas into structured, scalable systems — from planning architecture to launching early releases.
+Currently, I'm expanding my expertise in **React**, **Next.js**, **TypeScript**, **Node.js**, and **AI-powered applications**, with the goal of becoming a software engineer capable of building scalable and impactful products.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Currently
 
-**Frontend:**
+🚀 Frontend Developer at **Emoyka.az**
 
-* HTML
-* CSS
-* JavaScript
-* React (learning / improving)
+At Emoyka, I contribute to developing and maintaining production-ready web applications used by real customers.
 
-**Backend:**
+My work includes:
 
-* Node.js
-* Express
-* REST APIs
-* Authentication systems
-
-**Database:**
-
-* MongoDB
-* SQL
-
-**Other Tools:**
-
-* Git & GitHub
-* R (for statistical simulations)
-* Figma (basic UI/UX collaboration)
+- Developing responsive, modern user interfaces
+- Building and improving the admin dashboard
+- Implementing new frontend features
+- Fixing bugs and optimizing application performance
+- Collaborating with designers and developers to deliver better user experiences
 
 ---
 
-## 📌 Featured Project
+## 🚀 Tech Stack
 
-### 🎮 AI History Learning Game
+### Languages
 
-An interactive AI-powered educational platform that generates:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c"/>
+</p>
 
-* Story-based historical simulations
-* Smart chatbot interactions
-* Adaptive learning experiences
+### Frontend
 
-🔹 Focus: Making history engaging for high school students
-🔹 Tech: Web + AI integration
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+</p>
 
----
+### Backend
 
-## 📈 What I’m Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-* Scalable backend architecture
-* AI integration in web applications
-* System design & product strategy
-* Clean code & optimization
+### Database
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-## 🎯 2026 Goals
+### Tools
 
-* 🚀 Launch early version of AI product
-* 📊 Improve backend performance skills
-* 🤝 Collaborate on impactful tech projects
-* 🌍 Contribute to open-source
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: (add your link)
-* Email: (add your email)
-* Portfolio: (add if you have one)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+</p>
 
 ---
 
-⭐ *“Building today what will teach, empower, and inspire tomorrow.”*
+# 🚀 Featured Projects
+
+## 🚗 Emoyka.az
+
+A production web platform where I contribute as a Frontend Developer.
+
+Highlights:
+
+- Responsive Landing Page
+- Admin Dashboard
+- Feature Development
+- Performance Optimization
+- UI Improvements
+- Bug Fixing
+- Team Collaboration
+
+---
+
+## 📖 HystoryX
+
+An AI-powered educational platform that transforms history learning into interactive storytelling through immersive and engaging experiences.
+
+Tech:
+React • AI APIs • Modern UI
+
+---
+
+## 🩺 FitScan
+
+An AI-assisted health application focused on helping users better understand their health through an intuitive and interactive interface.
+
+---
+
+## 🏙 Sea to City
+
+Award-winning smart city concept developed during the PASHA Real Estate Hackathon.
+
+🏆 **2nd Place Winner**
+
+Focused on:
+
+- Accessibility
+- Interactive navigation
+- Smart infrastructure
+- User-centered design
+
+---
+
+## 🏆 Achievements
+
+🥈 2nd Place — PASHA Real Estate Hackathon
+
+🌍 Selected for the 4SI Digital Transformation Program
+
+💻 Developed production-ready web applications at Emoyka.az
+
+📚 Continuously learning modern frontend and AI technologies
+
+---
+
+## 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- AI Engineering
+- Agentic AI
+- Node.js
+- System Design
+- Cloud Computing
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn
+- Portfolio
+- Email
